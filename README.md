@@ -9,4 +9,6 @@ This time, as many people around the world are getting vaccinated, we wanted to 
   _How should Hopkins think about getting students vaccinated?_
   
 ## Data Analysis
+Extracting the data from [Our World in Data](https://ourworldindata.org/covid-vaccinations), we were able to analyze the current trends of vaccinations. Using groupby tool on python, we were able to look at the number of total cases and total vaccinations for the selected five countires. 
 
+![alt text]
