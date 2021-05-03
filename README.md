@@ -28,3 +28,8 @@ From this graph, we learned that Canada has the highest proportion of people who
 In this line chart, it shows the number of people getting vaccinated for different countries. This shows that number of people getting vaccinated fluctuates daily, but it is clearly shown that significantly higher number of people in China and India are getting vaccinated compared to other three countries. 
 
 ## Conclusion
+In this project, we have decided to look at vaccination trends as the vaccines are not accessible to everyone yet and we wanted to think about how the vaccines should be distributed. We believe that students who are from countries with low accessibility to vaccines should be prioritized. We were able to look at the data of vaccinations for China, India, South Korea, Canana, and Turkey, as we have a lot of students from these countries at Johns Hopkins. 
+
+Using various python tools, we were able to look at the number of total vaccinations and the proportion of people who got vaccinated. Using scatter, we were able to look at the general trends of number of people getting vaccinated for the selected countries by making a line chart. While the graph shows China and India has comparatively higher number of people getting vaccinated, we didn't take the number of population into account. Therefore, we created a bar graph of proportion of people who got vaccinated using scatter, which suggested that Canada and Turkey have the highest percentage.
+
+Thus, in order to analyze the accessibility of vaccines, I believe that we have to consider the population of a country when looking at the number of people who got vaccinated. 
