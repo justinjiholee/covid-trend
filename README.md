@@ -11,4 +11,12 @@ This time, as many people around the world are getting vaccinated, we wanted to 
 ## Data Analysis
 Extracting the data from [Our World in Data](https://ourworldindata.org/covid-vaccinations), we were able to analyze the current trends of vaccinations. Using groupby tool on python, we were able to look at the number of total cases and total vaccinations for the selected five countires. 
 
-![alt text]
+![alt text](https://github.com/justinjiholee/covid-trend/blob/main/Python%20Data.png)
+
+From this table, it is shown that China and India had the most amount of vaccinations, but they also have a significantly high population, so we decided to look at total vaccinations per hundred in order to compare the percent of people getting vaccinated from their countries. 
+
+## Data Visualization
+
+In order to compare the percent of people getting vaccinated for different countries, we have first decided to make a bar graph as it provides effective comparison.
+
+![alt text](
