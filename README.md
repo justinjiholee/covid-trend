@@ -9,6 +9,18 @@ This time, as many people around the world are getting vaccinated, we wanted to 
   _How should Hopkins think about getting students vaccinated?_
   
 ## Data Analysis
+From https://www.collegefactual.com/colleges/johns-hopkins-university/student-life/international/chart-international.html we can extract 5 countries with the highest percentage of Hopkins students:
+
+China 3,260
+
+India 429
+
+South Korea 331
+
+Canada 219
+
+Turkey 41
+
 Extracting the data from [Our World in Data](https://ourworldindata.org/covid-vaccinations), we were able to analyze the current trends of vaccinations. Using groupby tool on python, we were able to look at the number of total cases and total vaccinations for the selected five countires. 
 
 ![alt text](https://github.com/justinjiholee/covid-trend/blob/main/Python%20Data.png)
